@@ -64,19 +64,24 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats & Top Languages
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshada1902&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" 
-       alt="Top Langs" />
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada1902&layout=compact&theme=vue&hide_border=true" 
+       alt="Top Languages" 
+       height="180px"
+  />
 </p>
 
-<p>
-  &nbsp;
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&locale=en&theme=vue&hide_border=true" 
-       alt="GitHub Stats" />
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&theme=vue&hide_border=true" 
+       alt="GitHub Stats"
+       height="180px"
+  />
 </p>
 
 ---
