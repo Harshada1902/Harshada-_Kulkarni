@@ -89,10 +89,6 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshada1902&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
 
 ### 👩‍💼 About Me & 🤝 Open to Collaborations
 
