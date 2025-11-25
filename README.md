@@ -1,8 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Harshada Kulkarni</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3000&pause=800&color=F7C10D&center=true&vCenter=true&width=600&lines=Harshada+Kulkarni;Data+Analyst;Power+BI+Developer;Python+Developer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2500&pause=700&color=F542A7&center=true&vCenter=true&width=700&lines=Harshada+Kulkarni;Data+Analyst;Power+BI+Developer;Python+Developer;Data+Scientist" alt="Typing SVG" />
 </p>
+
 
 
 
