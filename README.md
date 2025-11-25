@@ -64,6 +64,11 @@
 
 ---
 
+### 🔥 GitHub Contribution Streak
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
 ### 👩‍💼 About Me & 🤝 Open to Collaborations
 
 🤝 Open to Project Collaborations  
