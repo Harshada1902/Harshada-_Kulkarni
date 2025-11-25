@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=800&center=true&vCenter=true&width=700&color=FFC300&lines=Harshada+Kulkarni;Data+Analyst;Power+BI+Developer;Python+Developer;Data+Scientist;Welcome+to+My+Profile!" alt="Typing SVG" />
 </p>
 
+
+
+
+
+
+
+
 <h3 align="center">A passionate Data Scientist, Python Developer, and Data Analyst from India. I love building intelligent systems, analyzing data, and solving real-world problems with code.</h3>
 
 <p align="center">
@@ -21,9 +28,10 @@
   <img src="https://komarev.com/ghpvc/?username=Harshada1902&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at **https://github.com/Harshada1902**  
-- 💬 Ask me about **Data Science, Python Development & Data Analysis**  
-- 📫 Reach me at: **harshadakulkarni1902@gmail.com**  
+- 👨‍💻 All of my projects are available at [https://github.com/Harshada1902](https://github.com/Harshada1902)  
+- 💬 Ask me about Data Science, Python Development & Data Analysis  
+- 📫 How to reach me: harshadakulkarni1902@gmail.com  
+
 
 ---
 
@@ -34,6 +42,7 @@
   </a>
 </p>
 
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,6 +50,7 @@
 
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
 
   <!-- Data Science & ML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
@@ -55,6 +65,7 @@
   <!-- Web Development -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+ 
 
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
@@ -62,37 +73,28 @@
 
 </p>
 
----
 
----
-
-### 📊 GitHub Stats & Top Languages
-
----
-
-### 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada1902&layout=compact&theme=vue&hide_border=true" height="180px" alt="Top Languages" />
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshada1902&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" 
+       alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&theme=vue&hide_border=true" height="180px" alt="GitHub Stats" />
+<p>
+  &nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&locale=en&theme=vue&hide_border=true" 
+       alt="GitHub Stats" />
 </p>
 
 
 ---
 
-### 🔥 GitHub Contribution Streak
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
 
 ### 👩‍💼 About Me & 🤝 Open to Collaborations
 
-🤝 Open to **Project Collaborations**  
-💼 Open to **Data Science, Python Development & Data Analysis Projects**  
-📧 Let’s chat: **harshadakulkarni1902@gmail.com**
+🤝 Open to Project Collaborations  
+💼 Open to Data Science, Python Development & Data Analysis Projects  
+📧 Let’s chat: *harshadakulkarni1902@gmail.com*
 
-> "Passionate about turning data into intelligent solutions. Let’s innovate and build something impactful together!"
-
+> "Passionate about turning data into intelligent solutions. Let’s innovate and build something impactful together!"
