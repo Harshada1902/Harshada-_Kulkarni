@@ -1,8 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Harshada Kulkarni</h1>
 
-<div align="center">
-  <img src="https://github.com/Harshada1902/Harshada1902/blob/main/Banner.png" alt="Banner" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3000&pause=800&color=F7C10D&center=true&vCenter=true&width=600&lines=Harshada+Kulkarni;Data+Analyst;Power+BI+Developer;Aspiring+Business+Analyst" alt="Typing SVG" />
+</p>
+
 
 
 <h3 align="center">A passionate Data Scientist, Python Developer, and Data Analyst from India. I love building intelligent systems, analyzing data, and solving real-world problems with code.</h3>
