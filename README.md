@@ -68,21 +68,18 @@
 
 ### 📊 GitHub Stats & Top Languages
 
+---
+
+### 📊 GitHub Stats & Top Languages
+
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada1902&layout=compact&theme=vue&hide_border=true" 
-       alt="Top Languages" 
-       height="180px"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshada1902&layout=compact&theme=vue&hide_border=true" height="180px" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&theme=vue&hide_border=true" 
-       alt="GitHub Stats"
-       height="180px"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshada1902&show_icons=true&theme=vue&hide_border=true" height="180px" alt="GitHub Stats" />
 </p>
+
 
 ---
 
