@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshada1902](https://github.com/Harshada1902)  
 - 💬 Ask me about Data Science, Python Development & Data Analysis  
-- 📫 How to reach me: harshadakulkarni1902@gmail.com  
+- 📫 How to reach me: harshadakulkarni2004@gmail.com  
 
 ---
 
@@ -74,6 +74,6 @@
 
 🤝 Open to Project Collaborations  
 💼 Open to Data Science, Python Development & Data Analysis Projects  
-📧 Let’s chat: *harshadakulkarni1902@gmail.com*
+📧 Let’s chat: *harshadakulkarni2004@gmail.com*
 
 > "Passionate about turning data into intelligent solutions. Let’s innovate and build something impactful together!"
